@@ -1,0 +1,21 @@
+---
+title: "GBM Example Data for MOMA Package"
+author: "Sunny Jones"
+output: rmarkdown::html_document
+vignette: >
+  %\VignetteIndexEntry{GBM Example Data for MOMA Package}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = "#>")
+```
+
+
+```{r package}
+library(moma.gbmexample)
+```
+
+This package contains the example data for the Multi Omic Master Regulator Analysis (MOMA)
+package. See that package vignette for more details on what the data is and how to use it.
