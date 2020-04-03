@@ -1,7 +1,7 @@
 Package: moma.gbmexample
 Type: Package
 Title: Data Package For Moma Vignette
-Version: 0.99.1
+Version: 0.99.2
 Author: Sunny Jones
 Maintainer: Sunny Jones <sunnyjjones@gmail.com>
 Description: This package provides the data used in the vignette of the moma package. 
